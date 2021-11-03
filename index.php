@@ -14,7 +14,7 @@ $user_1 = new User("Alberto","Rossi","AlbertoRossi@gmail.com",3318723685,"CartaD
 echo "<h2>{$user_1->getNome()}</h2>";
 // $user_2 = new User();
 
-$userPremium_1 = new UserPremium("Marco","Verdi","MarcoVerdi@gmail.com",3318723685,"CartaDiCredito");
+$userPremium_1 = new UserPremium("Marco","Verdi","MarcoVerdi@gmail.com",3353953005,"CartaDiCredito");
 echo "<h2>{$userPremium_1->getNome()}</h2>";
 var_dump($userPremium_1);
 
